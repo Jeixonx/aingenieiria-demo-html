@@ -325,7 +325,8 @@ button {
 }
 
 .text-bg h1 {
-     color: #000;
+     color: #16e816;
+     text-shadow: 0 0 8px rgb(0,0,0);
      font-size: 85px;
      line-height: 96px;
      padding-bottom: 0px;
@@ -336,9 +337,10 @@ button {
      line-height: 25px;
      padding-bottom: 40px;
      color: #fff;
-     font-size: 17px;
+     font-size: 23px;
      font-weight: bold;
      display: block;
+     text-shadow: 0 0 8px rgb(0,0,0);
 }
 
 .text-bg .read_more {
@@ -581,7 +583,7 @@ button {
 .gallery_text {
      text-align: center;
      background-color: #2a2b2a;
-     height: 369px;
+     height: 256px;
      display: flex;
      align-items: center;
      justify-content: center;
